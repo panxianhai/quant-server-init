@@ -1,6 +1,6 @@
 apt-get update && apt-get upgrade
 
-apt-get install curl vim wget unzip apt-transport-https lsb-release ca-certificates
+apt-get install git curl vim wget unzip apt-transport-https lsb-release ca-certificates
 
 wget -O /etc/apt/trusted.gpg.d/php.gpg https://packages.sury.org/php/apt.gpg
 
